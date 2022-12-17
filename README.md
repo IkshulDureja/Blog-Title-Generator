@@ -1,4 +1,4 @@
-# ** Title - Blog Title Generator**
+# **Title - Blog Title Generator**
 
 
 ## **1. Methodology**
