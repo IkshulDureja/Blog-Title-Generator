@@ -2,6 +2,7 @@
 
 
 ## **1. Methodology**
+![Meth drawio](https://user-images.githubusercontent.com/56119070/208235244-ee339816-98dc-4e08-b8b1-7043f6b84746.png)
 
 
 ## **2. Description**
